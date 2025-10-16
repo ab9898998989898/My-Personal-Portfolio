@@ -21,12 +21,12 @@ const LearnFromMe: React.FC = () => {
         'Responsive design principles',
         'Real-world project development'
       ],
-      price: '$99'
+      price: '$39/m'
     },
     {
       title: 'Full Stack Development',
       description: 'Learn to build complete web applications with MERN stack',
-      duration: '16 weeks',
+      duration: '20 weeks',
       level: 'Intermediate to Advanced',
       highlights: [
         'React.js development',
@@ -34,7 +34,7 @@ const LearnFromMe: React.FC = () => {
         'MongoDB database design',
         'API development and integration'
       ],
-      price: '$199'
+      price: '$89/m'
     },
     {
       title: 'Digital Marketing Masterclass',
@@ -47,7 +47,7 @@ const LearnFromMe: React.FC = () => {
         'Google Analytics & AdWords',
         'Content marketing strategies'
       ],
-      price: '$139'
+      price: '$59/m'
     },
     {
       title: 'Web Development(PHP/Laravel & MySQL)',
@@ -60,7 +60,7 @@ const LearnFromMe: React.FC = () => {
         'Responsive design principles',
         'Real-world project development'
       ],
-      price: '$99'
+      price: '$49/m'
     }
   ];
 
