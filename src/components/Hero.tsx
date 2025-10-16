@@ -105,7 +105,7 @@ const Hero: React.FC = () => {
   {/* This new div controls the maximum size of the image */}
   <div className="w-full max-w-xs sm:max-w-sm md:max-w-xl">
     <img 
-      src="/imagee-removebg-preview.png" 
+      src="/public/imagee-removebg-preview.png" 
       alt="Abdullah Nadeem"
       className="rounded-[100%] shadow-2xl w-full h-[550px] object-cover transform transition-transform duration-500 hover:scale-105"
     />
